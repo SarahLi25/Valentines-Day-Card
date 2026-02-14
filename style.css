@@ -1,0 +1,61 @@
+
+.Card img {
+    display: block;
+    width: 1000px;
+    height: 600px;
+    object-fit: cover; 
+    position: absolute; 
+    top: 2em;
+    left: 2em;
+    right:2em;
+    z-index: 1; 
+}
+
+.Top5 {
+    font-style: italic;
+    position: absolute;
+    top:22.5em;
+    left: 11em;
+    color: rgb(204, 83, 83);
+    font-size: 23px;
+    object-fit: cover;
+    z-index: 2;
+}
+
+.Left h1{
+    font-style: italic;
+    position: absolute;
+    top: 11em;
+    left: 8em;
+    color: rgb(204, 83, 83);
+    font-size: 24px;
+    object-fit: cover;
+    z-index: 2;
+}
+
+.Left ol{
+    position: absolute;
+    top:12.5em;
+    left: 10em;
+    color: rgb(204, 83, 83);
+    font-size: 24px;
+    object-fit: cover;
+    z-index: 2;
+    line-height: 30px;
+}
+
+.Right h2{
+    position: absolute;
+    top:7em;
+    left: 20em;
+    color: rgb(204, 83, 83);
+    font-size: 2em;
+    object-fit: cover;
+    z-index: 2;
+    line-height: 36px;
+}
+
+
+
+
+
